@@ -4,3 +4,4 @@ b=20
 print(a)
 print(b)
 print(a+b)
+c=4
